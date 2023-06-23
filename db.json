@@ -1,6 +1,6 @@
 {
   "pokemons": [
-    {
+  {
 "id_pokemon": 1,
 "nome": "Bulbasaur",
 "idade": 1,
@@ -36,39 +36,11 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif"
 },
 {
-"id_pokemon": 153,
-"nome": "Bayllef",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/153.gif"
-},
-{
-"id_pokemon": 154,
-"nome": "Meganium",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/154.gif"
-},
-{
 "id_pokemon": 155,
 "nome": "Cyndaquil",
 "idade": 1,
 "vida": 100,
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif"
-},
-{
-"id_pokemon": 156,
-"nome": "Quilava",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/156.gif"
-},
-{
-"id_pokemon": 157,
-"nome": "Typhlosion",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/157.gif"
 },
 {
 "id_pokemon": 158,
@@ -78,39 +50,11 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif"
 },
 {
-"id_pokemon": 159,
-"nome": "Croconaw",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/159.gif"
-},
-{
-"id_pokemon": 160,
-"nome": "Feraligator",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/160.gif"
-},
-{
 "id_pokemon": 252,
 "nome": "Treecko",
 "idade": 1,
 "vida": 100,
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif"
-},
-{
-"id_pokemon": 253,
-"nome": "Grovyle",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif"
-},
-{
-"id_pokemon": 254,
-"nome": "Sceptile",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif"
 },
 {
 "id_pokemon": 255,
@@ -120,32 +64,11 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif"
 },
 {
-"id_pokemon": 257,
-"nome": "Blaziken",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif"
-},
-{
 "id_pokemon": 258,
 "nome": "Mudkip",
 "idade": 1,
 "vida": 100,
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif"
-},
-{
-"id_pokemon": 259,
-"nome": "Marshtomp",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/259.gif"
-},
-{
-"id_pokemon": 260,
-"nome": "Swampert",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/260.gif"
 },
 {
 "id_pokemon": 387,
@@ -155,39 +78,11 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/387.gif"
 },
 {
-"id_pokemon": 388,
-"nome": "Grotle",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/388.gif"
-},
-{
-"id_pokemon": 389,
-"nome": "Tortera",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/389.gif"
-},
-{
 "id_pokemon": 390,
 "nome": "Chimchar",
 "idade": 1,
 "vida": 100,
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif"
-},
-{
-"id_pokemon": 391,
-"nome": "Monfero",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/391.gif"
-},
-{
-"id_pokemon": 392,
-"nome": "Infernape",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif"
 },
 {
 "id_pokemon": 393,
@@ -197,20 +92,6 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif"
 },
 {
-"id_pokemon": 394,
-"nome": "Prinplup",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/394.gif"
-},
-{
-"id_pokemon": 395,
-"nome": "Empolen",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif"
-},
-{
 "id_pokemon": 495,
 "nome": "Snivy",
 "idade": 1,
@@ -218,39 +99,11 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/495.gif"
 },
 {
-"id_pokemon": 496,
-"nome": "Servine",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/496.gif"
-},
-{
-"id_pokemon": 497,
-"nome": "Serperior",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/497.gif"
-},
-{
 "id_pokemon": 498,
 "nome": "Tepig",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/498].gif"
-},
-{
-"id_pokemon": 499,
-"nome": "Pingnite",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/499.gif"
-},
-{
-"id_pokemon": 500,
-"nome": "Emboar",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/500.gif"
+"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/498.gif"
 },
 {
 "id_pokemon": 501,
@@ -260,20 +113,6 @@
 "Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/501.gif"
 },
 {
-"id_pokemon": 502,
-"nome": "Dewott",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/502.gif"
-},
-{
-"id_pokemon": 503,
-"nome": "Samurott",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/503.gif"
-},
-{
 "id_pokemon": 650,
 "nome": "Chespin",
 "idade": 1,
@@ -281,186 +120,60 @@
 "Img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2a6b571-d9aa-4d3b-a509-314709a98d28/d6iah8d-e3d5f1f3-db04-4e06-90cd-fe6b76933af4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YyYTZiNTcxLWQ5YWEtNGQzYi1hNTA5LTMxNDcwOWE5OGQyOFwvZDZpYWg4ZC1lM2Q1ZjFmMy1kYjA0LTRlMDYtOTBjZC1mZTZiNzY5MzNhZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oGcfjocYBjDQZHJEG5L3y6HVjtZC2x5ocvlHpmWTEYU"
 },
 {
-"id_pokemon": 651,
-"nome": "Quilladin",
-"idade": 1,
-"vida": 100,
-"Img": "https://www.pkparaiso.com/imagenes/xy/sprites/animados/quilladin-2.gif"
-},
-{
-"id_pokemon": 652,
-"nome": "Chesnaught",
-"idade": 1,
-"vida": 100,
-"Img": "https://static.wikia.nocookie.net/pokemon/images/a/ad/Chesnaught_XY.gif"
-},
-{
 "id_pokemon": 653,
 "nome": "Fennekin",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/653.gif"
-},
-{
-"id_pokemon": 654,
-"nome": "Brainxen",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/654.gif"
-},
-{
-"id_pokemon": 655,
-"nome": "Delphox",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/655.gif"
+"Img": "https://media.tenor.com/rod-q7hWpioAAAAC/fennekin-fire.gif"
 },
 {
 "id_pokemon": 656,
 "nome": "Froakie",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/656.gif"
-},
-{
-"id_pokemon": 657,
-"nome": "Frogadier",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/657.gif"
-},
-{
-"id_pokemon": 658,
-"nome": "Greninja",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/658.gif"
+"Img": "https://www.rebornevo.com/uploads/monthly_2022_01/Froakie.gif.8df58a53f05557fe7ebd37352c7e4a69.gif"
 },
 {
 "id_pokemon": 722,
 "nome": "Rowlett",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/722.gif"
-},
-{
-"id_pokemon": 723,
-"nome": "Dartrix",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/723.gif"
-},
-{
-"id_pokemon": 724,
-"nome": "Decidueye",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/724.gif"
+"Img": "https://media.tenor.com/6Xuoho-_X9YAAAAM/rowlet-pokemon.gif"
 },
 {
 "id_pokemon": 725,
 "nome": "Litten",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/725.gif"
-},
-{
-"id_pokemon": 726,
-"nome": "Torracat",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/726.gif"
-},
-{
-"id_pokemon": 727,
-"nome": "Incineroar",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/727.gif"
+"Img": "https://media.tenor.com/NomroQppB5oAAAAi/litten.gif"
 },
 {
 "id_pokemon": 728,
 "nome": "Popplio",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/728.gif"
-},
-{
-"id_pokemon": 729,
-"nome": "Brionne",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/729.gif"
-},
-{
-"id_pokemon": 730,
-"nome": "Primarina",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/730.gif"
+"Img": "https://media.tenor.com/3A1n-rKOqJgAAAAC/popplio-pokemon.gif"
 },
 {
 "id_pokemon": 810,
 "nome": "Grookey",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/910.gif"
-},
-{
-"id_pokemon": 811,
-"nome": "Thwackey",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/811.gif"
-},
-{
-"id_pokemon": 812,
-"nome": "Rillaboom",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/812.gif"
+"Img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65e1273d-ff6a-419a-8537-7c633439aea7/dd9vgep-e65b11de-3f8d-4e64-8898-93b18651cf62.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1ZTEyNzNkLWZmNmEtNDE5YS04NTM3LTdjNjMzNDM5YWVhN1wvZGQ5dmdlcC1lNjViMTFkZS0zZjhkLTRlNjQtODg5OC05M2IxODY1MWNmNjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0nnDMvkog7MBy9yKros_QiAMiN14vfs-sMrnJq_1cW0"
 },
 {
 "id_pokemon": 813,
 "nome": "Scorbunny",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/813.gif"
-},
-{
-"id_pokemon": 814,
-"nome": "Raboot",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/814.gif"
-},
-{
-"id_pokemon": 815,
-"nome": "Cinderace",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/815.gif"
+"Img": "https://media.tenor.com/CzwinPzN9nQAAAAC/scorbunny-cute.gif"
 },
 {
 "id_pokemon": 816,
 "nome": "Sobble",
 "idade": 1,
 "vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/816.gif"
-},
-{
-"id_pokemon": 817,
-"nome": "Drizzile",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/817.gif"
-},
-{
-"id_pokemon": 818,
-"nome": "Inteleon",
-"idade": 1,
-"vida": 100,
-"Img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/818.gif"
+"Img": "https://art.ngfiles.com/images/846000/846201_monnotonne_sobble.gif?f1552342469"
 }
   ]
 }
