@@ -221,8 +221,18 @@
 "pedido": [
         {
             "id": 1,
-            "açaí": "Açaí na tigela",
+            "itens": [
+              "Açaí na tigela"
+            ],
             "preço": 15.00
+        },
+        {
+          "id": 2,
+          "itens": [
+            "Açaí na tigela com banana",
+            "Açaí na tigela com morango"
+          ],
+          "preço": 16.00
         }
     ],
 "itens": [
