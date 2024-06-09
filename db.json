@@ -180,42 +180,53 @@
         {
             "id": 1,
             "name": "Açaí na tigela",
-            "value": 15.00
+            "value": 15.00,
+            "img": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/ous2r59706s8gksg0c.png"
         },
         {
             "id": 2,
             "name": "Açaí na tigela com banana",
-            "value": 16.00
+            "value": 16.00,
+            "img": "https://img.freepik.com/fotos-premium/acai-tigela-de-sorvete-de-acai-congelado-brasileiro-com-rodelas-de-banana_317399-534.jpg"
         },
         {
             "id": 3,
             "name": "Açaí na tigela com morango",
-            "value": 16.00
+            "value": 16.00,
+            "img": "https://www.auau.com.br/image/cache/data/up_system/product-13756/acai-03-1000x1000.jpg"
+
         },
         {
             "id": 4,
             "name": "Açaí na tigela com banana e morango",
-            "value": 17.00
+            "value": 17.00,
+            "img": "https://www.designi.com.br/images/preview/10015377.jpg"
+
         },
         {
             "id": 5,
             "name": "Açaí na tigela com granola",
-            "value": 16.00
+            "value": 16.00,
+            "img": "https://panfleteria.sfo2.digitaloceanspaces.com/uploads/ofertas/img/02-skina-do-pastel-oferta-de-acai-com-banana-e-granola-em-fortaleza.jpg"
         },
         {
             "id": 6,
             "name": "Açaí na tigela com banana e granola",
-            "value": 17.00
+            "value": 17.00,
+            "img": "https://www.auau.com.br/image/cache/data/up_system/product-13757/acai-02-1000x1000.jpg"
         },
         {
             "id": 7,
             "name": "Açaí na tigela com morango e granola",
-            "value": 17.00
+            "value": 17.00,
+            "img": "https://static.wixstatic.com/media/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg/v1/fill/w_814,h_542,al_c,lg_1,q_85/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg"
+
         },
         {
             "id": 8,
             "name": "Açaí na tigela com banana, morango e granola",
-            "value": 18.00
+            "value": 18.00,
+            "img": "https://www.designi.com.br/images/preview/10074322.jpg"
         }
     ],
 "pedido": [
@@ -233,48 +244,6 @@
             "Açaí na tigela com morango"
           ],
           "value": 32.00
-        }
-    ],
-"itens": [
-        {
-            "id": 1,
-            "name": "Açaí na tigela",
-            "img": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/ous2r59706s8gksg0c.png"
-        },
-        {
-          "id": 2,
-          "name": "Açaí na tigela com banana",
-          "img": "https://img.freepik.com/fotos-premium/acai-tigela-de-sorvete-de-acai-congelado-brasileiro-com-rodelas-de-banana_317399-534.jpg"
-        },
-        {
-          "id": 3,
-          "name": "Açaí na tigela com morango",
-          "img": "https://www.auau.com.br/image/cache/data/up_system/product-13756/acai-03-1000x1000.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Açaí na tigela com banana e morango",
-          "img": "https://www.designi.com.br/images/preview/10015377.jpg"
-        },
-        {
-          "id": 5,
-          "name": "Açaí na tigela com granola",
-          "img": "https://panfleteria.sfo2.digitaloceanspaces.com/uploads/ofertas/img/02-skina-do-pastel-oferta-de-acai-com-banana-e-granola-em-fortaleza.jpg"
-        },
-        {
-          "id": 6,
-          "name": "Açaí na tigela com banana e granola",
-          "img": "https://www.auau.com.br/image/cache/data/up_system/product-13757/acai-02-1000x1000.jpg"
-        },
-        {
-          "id": 7,
-          "name": "Açaí na tigela com morango e granola",
-          "img": "https://static.wixstatic.com/media/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg/v1/fill/w_814,h_542,al_c,lg_1,q_85/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg"
-        },
-        {
-          "id": 8,
-          "name": "Açaí na tigela com banana, morango e granola",
-          "img": "https://www.designi.com.br/images/preview/10074322.jpg"
         }
     ]
 }
