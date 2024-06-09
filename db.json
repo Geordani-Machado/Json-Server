@@ -179,43 +179,43 @@
 "catalog": [
         {
             "id": 1,
-            "açaí": "Açaí na tigela",
-            "preço": 15.00
+            "name": "Açaí na tigela",
+            "value": 15.00
         },
         {
             "id": 2,
-            "açaí": "Açaí na tigela com banana",
-            "preço": 16.00
+            "name": "Açaí na tigela com banana",
+            "value": 16.00
         },
         {
             "id": 3,
-            "açaí": "Açaí na tigela com morango",
-            "preço": 16.00
+            "name": "Açaí na tigela com morango",
+            "value": 16.00
         },
         {
             "id": 4,
-            "açaí": "Açaí na tigela com banana e morango",
-            "preço": 17.00
+            "name": "Açaí na tigela com banana e morango",
+            "value": 17.00
         },
         {
             "id": 5,
-            "açaí": "Açaí na tigela com granola",
-            "preço": 16.00
+            "name": "Açaí na tigela com granola",
+            "value": 16.00
         },
         {
             "id": 6,
-            "açaí": "Açaí na tigela com banana e granola",
-            "preço": 17.00
+            "name": "Açaí na tigela com banana e granola",
+            "value": 17.00
         },
         {
             "id": 7,
-            "açaí": "Açaí na tigela com morango e granola",
-            "preço": 17.00
+            "name": "Açaí na tigela com morango e granola",
+            "value": 17.00
         },
         {
             "id": 8,
-            "açaí": "Açaí na tigela com banana, morango e granola",
-            "preço": 18.00
+            "name": "Açaí na tigela com banana, morango e granola",
+            "value": 18.00
         }
     ],
 "pedido": [
@@ -224,7 +224,7 @@
             "itens": [
               "Açaí na tigela"
             ],
-            "preço": 15.00
+            "value": 15.00
         },
         {
           "id": 2,
@@ -232,48 +232,48 @@
             "Açaí na tigela com banana",
             "Açaí na tigela com morango"
           ],
-          "preço": 32.00
+          "value": 32.00
         }
     ],
 "itens": [
         {
             "id": 1,
-            "açaí": "Açaí na tigela",
+            "name": "Açaí na tigela",
             "img": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/ous2r59706s8gksg0c.png"
         },
         {
           "id": 2,
-          "açaí": "Açaí na tigela com banana",
+          "name": "Açaí na tigela com banana",
           "img": "https://img.freepik.com/fotos-premium/acai-tigela-de-sorvete-de-acai-congelado-brasileiro-com-rodelas-de-banana_317399-534.jpg"
         },
         {
           "id": 3,
-          "açaí": "Açaí na tigela com morango",
+          "name": "Açaí na tigela com morango",
           "img": "https://www.auau.com.br/image/cache/data/up_system/product-13756/acai-03-1000x1000.jpg"
         },
         {
           "id": 4,
-          "açaí": "Açaí na tigela com banana e morango",
+          "name": "Açaí na tigela com banana e morango",
           "img": "https://www.designi.com.br/images/preview/10015377.jpg"
         },
         {
           "id": 5,
-          "açaí": "Açaí na tigela com granola",
+          "name": "Açaí na tigela com granola",
           "img": "https://panfleteria.sfo2.digitaloceanspaces.com/uploads/ofertas/img/02-skina-do-pastel-oferta-de-acai-com-banana-e-granola-em-fortaleza.jpg"
         },
         {
           "id": 6,
-          "açaí": "Açaí na tigela com banana e granola",
+          "name": "Açaí na tigela com banana e granola",
           "img": "https://www.auau.com.br/image/cache/data/up_system/product-13757/acai-02-1000x1000.jpg"
         },
         {
           "id": 7,
-          "açaí": "Açaí na tigela com morango e granola",
+          "name": "Açaí na tigela com morango e granola",
           "img": "https://static.wixstatic.com/media/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg/v1/fill/w_814,h_542,al_c,lg_1,q_85/540f1d_e0afeca547dd49679f7b72554cb9a0fc~mv2.jpg"
         },
         {
           "id": 8,
-          "açaí": "Açaí na tigela com banana, morango e granola",
+          "name": "Açaí na tigela com banana, morango e granola",
           "img": "https://www.designi.com.br/images/preview/10074322.jpg"
         }
     ]
